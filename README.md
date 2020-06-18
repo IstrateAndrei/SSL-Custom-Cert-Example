@@ -2,6 +2,7 @@
 (ノಠ益ಠ)ノ ... ノ( º _ ºノ).
 
 SSL Presentation Notes and Links:
+
 https://www.thesslmart.com/3-reasons-why-you-need-an-ssl-one-of-them-is-surprising/
 
 MacOS Certified Authorities list:
